@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-newbie bug hunter.
+bug hunter.
