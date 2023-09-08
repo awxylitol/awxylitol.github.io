@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rogue CDB: Escaping from VMware Workstation Through the Disk Controller
+title: Rogue CDB - Escaping from VMware Workstation Through the Disk Controller
 ---
 
 # Rogue CDB: Escaping from VMware Workstation Through the Disk Controller
